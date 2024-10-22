@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Flask, Python, Kafka<br><br>👨‍💻 All of my projects are available at https://portfolio-website-alpha-henna-17.vercel.app/<br><br>📝 I regularly write articles on https://paisakamao2024.com/<br><br>💬 Ask me about React js , Css<br><br>📫 How to reach me vinodpanzade64@gmail.com</p>
+<p align="left">🌱 I’m currently learning Flask, Python, Kafka<br><br>👨‍💻 All of my projects are available at https://portfolio-theta-steel-99.vercel.app/<br><br>📝 I regularly write articles on https://paisakamao2024.com/<br><br>💬 Ask me about React js , Css<br><br>📫 How to reach me vinodpanzade64@gmail.com</p>
 
 ###
 
