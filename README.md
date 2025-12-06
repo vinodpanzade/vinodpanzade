@@ -12,11 +12,17 @@
 
 ###
 
-<p align="left">Hi! I'm Vinod Panzaade, a passionate web developer skilled in the MERN stack and frontend technologies."</p>
+<p align="left">Hi! I'm Vinod Panzaade, an aspiring Automation Tester with hands-on experience in Cypress automation and UI testing."</p>
 
 ###
 
-<p align="left">🌱 I’m currently learning Flask, Python, Kafka<br><br>👨‍💻 All of my projects are available at https://portfolio-theta-steel-99.vercel.app/<br><br>📝 I regularly write articles on https://paisakamao2024.com/<br><br>💬 Ask me about React js , Css<br><br>📫 How to reach me vinodpanzade64@gmail.com</p>
+<p align="left">🌱I’m currently learning Automation Testing, Cypress, JavaScript, and QA practices
+
+👨‍💻 All of my projects are available at https://portfolio-theta-steel-99.vercel.app/
+
+💬 Ask me about Cypress, Manual Testing, Test Case Writing, and Web Testing
+
+📫 How to reach me: vinodpanzade64@gmail.com</p>
 
 ###
 
